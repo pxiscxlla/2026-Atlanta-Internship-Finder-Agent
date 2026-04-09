@@ -35,6 +35,17 @@ Undergraduate students looking for Summer 2026 internships in the Atlanta area.
 
 ## File Included
 - `agent_e12b6172-efe0-4a50-b0a3-05f0230abf75.rai` – exported agent file
+- `.env.example` – example environment variable template
+- `README.md` – project documentation
+
+## Environment Setup
+
+Create a `.env` file in the root folder and add:
+
+```env
+VITE_REGION=your_region_here
+VITE_PROJECT=your_project_id_here
+VITE_AGENT_ID=your_agent_id_here
 
 ## Notes
 This repository is intended to store and showcase the internship-finder agent and its design. Additional files such as documentation, screenshots, or demos may be added later.
