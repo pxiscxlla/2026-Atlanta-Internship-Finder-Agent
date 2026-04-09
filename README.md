@@ -38,6 +38,12 @@ Undergraduate students looking for Summer 2026 internships in the Atlanta area.
 - `.env.example` – example environment variable template
 - `README.md` – project documentation
 
+# Live Demo
+
+Access the Atlanta Internship Finder Agent below:
+
+https://app.relevanceai.com/agents/bcbe5a/62975875-43cf-40e6-84ea-07e3424de78c/e12b6172-efe0-4a50-b0a3-05f0230abf75/share?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
+
 ## Environment Setup
 
 Create a `.env` file in the root folder and add:
